@@ -1,2 +1,3 @@
 # demo-reso
-my first repository
+my first repository.
+author-nandini sahu
