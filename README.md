@@ -4,3 +4,7 @@ my first repository.
 Author-Nandini sahu
 i am back.
 HELLOOO.......
+# teacher
+Shraddha khapra
+# Student
+ Nandini sahu
